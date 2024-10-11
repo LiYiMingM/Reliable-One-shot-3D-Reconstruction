@@ -1,4 +1,4 @@
-# Reliable One-shot 3D Reconstruction via Deep Learning: A Dual Attention and Dual-Branch Physically Supervised Model for Structured Light Perception
+# Reliable Deep Learning One-shot 3D Reconstruction：A Dual Attention and Dual-Branch Physically Supervised Model for Structured Light Perception
 
 ![main_figure](./images/main_figure.png)
 
